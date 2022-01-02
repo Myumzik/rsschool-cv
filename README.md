@@ -40,9 +40,9 @@ Get an interesting job that gives you the opportunity to develop.
 ```
 <form action="/people">
     <select>
-      <option>Суп</option>
-      <option>Каша</option>
-      <option>Жаркое</option>
+      <option>soap</option>
+      <option>porridge</option>
+      <option>roast</option>
     </select>
 </form>
 ```

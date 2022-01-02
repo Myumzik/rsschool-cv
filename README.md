@@ -37,10 +37,12 @@ Get an interesting job that gives you the opportunity to develop.
 
 ##  Code example:
 *drop-down list*
-```<form action="/people">
+```
+<form action="/people">
     <select>
-      <option>soup</option>
-      <option>porridge</option>
-      <option>roast</option>
+      <option>Суп</option>
+      <option>Каша</option>
+      <option>Жаркое</option>
     </select>
 </form>
+```

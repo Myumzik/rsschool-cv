@@ -1,16 +1,17 @@
 # rsschool-cv
 
-# Valuyskaya Irina 
+# Valuyskaya Irina
 13.02.1996
 ### junior front-end developer
 ## Contact Information:
 *  +7 910 329 56 74
 * myumzik13@gmail.com
 * https://myumzik.github.io/rsschool-cv/cv
-* Myumzik(@Myumzik)
+* Myumzik#9882
 
 Studied to be a paramedic, but, for some reason, did not finish.
-I have good experience in various fields. 
+I have good experience in various fields.
+#### Courses: RS School
 ## Intent
 Get an interesting job that gives you the opportunity to develop.
 ## Skills
@@ -23,7 +24,7 @@ Get an interesting job that gives you the opportunity to develop.
 * I am guided in the program 1C: Enterprise and Tavern.
 ## Personal qualities
 * Lead a healthy lifestyle;
-* I love to study;
+* I like to study;
 * Plodding;
 * I have no difficulty communicating with a wide variety of people;
 * I work effectively in an unstable working day;
@@ -47,4 +48,4 @@ Get an interesting job that gives you the opportunity to develop.
     </select>
 </form>
 ```
-(![avatar](https://user-images.githubusercontent.com/96053705/147877820-10a86355-d030-43c1-a1e6-68bce6244699.jpg))
+

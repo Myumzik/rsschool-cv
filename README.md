@@ -34,3 +34,13 @@ Get an interesting job that gives you the opportunity to develop.
 * Music;
 * Cooking;
 * Videogames.
+
+##  Code example:
+*drop-down list*
+```<form action="/people">
+    <select>
+      <option>soup</option>
+      <option>porridge</option>
+      <option>roast</option>
+    </select>
+</form>

@@ -1,2 +1,1 @@
-# rsschool-cv
-http://Myumzik.github.io/rsschool-cv/
+hhtps://Myumzik/github.io/rsschool-cv/

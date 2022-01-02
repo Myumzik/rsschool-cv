@@ -1,7 +1,7 @@
 # rsschool-cv
-CV#1.Markdown & Git
 
 # Valuyskaya Irina 
+13.02.1996
 ### junior front-end developer
 ## Contact Information:
 *  +7 910 329 56 74
@@ -12,11 +12,11 @@ Studied to be a paramedic, but, for some reason, did not finish.
 I have good experience in various fields. 
 ## Intent
 Get an interesting job that gives you the opportunity to develop.
-## Skills:
+## Skills
 * __HTML;__
 * __CSS;__
 * __JS;__
-* __Git__
+* __Git;__
 * I studied German and English, as I am not satisfied with the level of knowledge, I continue to improve them;
 * Confident PC user (Microsoft Word, Microsoft Excel, Microsoft Power Point, OpenOffice.org);
 * I am guided in the program 1C: Enterprise and Tavern.
@@ -34,4 +34,3 @@ Get an interesting job that gives you the opportunity to develop.
 * Music;
 * Cooking;
 * Videogames.
-

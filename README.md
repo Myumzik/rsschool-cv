@@ -7,6 +7,7 @@
 *  +7 910 329 56 74
 * myumzik13@gmail.com
 * https://myumzik.github.io/rsschool-cv/cv
+* Myumzik(@Myumzik)
 
 Studied to be a paramedic, but, for some reason, did not finish.
 I have good experience in various fields. 

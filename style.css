@@ -1,0 +1,90 @@
+.header {
+  font-family: 'EB Garamond', serif;
+}
+.topnav {
+  background-color: #333;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 24%);
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #374e28;
+  color: white;
+}
+
+body {
+  font-family: 'Padauk', sans-serif;
+  background: #90AC53;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+section {
+  box-shadow: 0 1px 3px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 24%);
+  background: #689f38;
+  border-radius: 3px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.section2 {
+  width: 500px;
+  height: 200px;
+}
+
+section:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  cursor: pointer;
+}
+
+:target {
+  background: #387002;
+}
+
+.section-title {
+  font-family: 'Abril Fatface', cursive;
+}
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.section {
+  width: 50%;
+}
+.pre {
+  padding: 0;
+  margin: 0;
+}
+.pre {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  margin: 1em 0px;
+}
+
+img {
+  box-shadow: 0 1px 3px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 24%);
+  border-radius: 3px;
+}
+.footer {
+  position: sticky;
+  top: 30px;
+  left: 30px;
+}

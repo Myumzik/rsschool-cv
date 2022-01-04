@@ -1,6 +1,6 @@
 # rsschool-cv
 
-![avatar](/images/avatar1.jpg)
+![avatar](/assets/img/avatar1.jpg)
 
 # Valuyskaya Irina
 13.02.1996
